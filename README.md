@@ -20,15 +20,16 @@ R1	FastEthernet0/0	192.168.1.1	255.255.255.0
 R1	FastEthernet0/1	192.168.2.1	255.255.255.0
 PC2	e0	192.168.1.2	255.255.255.0
 PC3	e0	192.168.1.3	255.255.255.0
-PC4	e0	192.168.2.4	255.255.255.0
-PC5	e0	192.168.2.5	255.255.255.0
+PC4	e0	192.168.2.2	255.255.255.0
+PC5	e0	192.168.2.3	255.255.255.0
 
 
 ## Default Gateway
 Network	Gateway
 192.168.1.0/24	192.168.1.1
 192.168.2.0/24	192.168.2.1
-Objectives
+
+## Objectives
 Configure IP addresses on router interfaces.
 Configure IP addresses on PCs.
 Establish communication between different networks.
