@@ -86,9 +86,9 @@ Ping Router Gateway
 ### Ping Different Network
 ```PC5> ping 192.168.1.3
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc3155e8-c5ca-4461-a32e-d94fe651ee41" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/040c06c0-40a5-4dfe-8473-ad48b36c744d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a9f604c-c789-4264-9829-e2979db4d45c" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc3155e8-c5ca-4461-a32e-d94fe651ee41" />
 
 ### Result: Successful
 The successful ping replies confirm that routing between the two LANs is functioning correctly.
